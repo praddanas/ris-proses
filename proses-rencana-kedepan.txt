@@ -3,7 +3,3 @@ rencana proses kedepan
 1. Belajar github
 2. Belajar git
 3. Materi sampe ignore
-4. Belajar Laravel
- - crud
- - dll
-5. Belajar apalagi
