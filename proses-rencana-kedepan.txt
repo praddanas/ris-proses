@@ -7,3 +7,5 @@ rencana proses kedepan
  - crud
  - dll
 5. Belajar apalagi
+6. Belajar apalagi 2
+7. Belajar apalagi 3
