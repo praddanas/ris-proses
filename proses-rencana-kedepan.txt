@@ -1,0 +1,5 @@
+rencana proses kedepan
+
+1. Belajar github
+2. Belajar git
+3. Materi sampe ignore
